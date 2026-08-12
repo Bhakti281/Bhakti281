@@ -55,7 +55,7 @@
 </g></g>
 <text x="175" y="452" text-anchor="middle" class="lbl" opacity="0">Bhakti Gharat<animate attributeName="opacity" from="0" to=".9" begin="1s" dur=".6s" fill="freeze"/></text>
 <text x="330" y="80" class="name">bhakti@github<tspan class="cursor" fill="#58a6ff"> ▌</tspan></text>
-<g class="row" style="animation-delay:0.4s"><text x="330" y="106" class="lbl">OS:</text><text x="940" y="106" class="val" text-anchor="end">Windows</text></g>
+<g class="row" style="animation-delay:0.4s"><text x="330" y="106" class="lbl">OS:</text><text x="940" y="106" class="val" text-anchor="end">Windows · macOS</text></g>
 <g class="row" style="animation-delay:0.49s"><text x="330" y="129" class="lbl">Uptime:</text><text x="940" y="129" class="val" text-anchor="end">17 Years, 9 Months, 9 Days</text></g>
 <g class="row" style="animation-delay:0.58s"><text x="330" y="152" class="lbl">Host:</text><text x="940" y="152" class="val" text-anchor="end">Virar West, Maharashtra, India</text></g>
 <g class="row" style="animation-delay:0.67s"><text x="330" y="175" class="lbl">Kernel:</text><text x="940" y="175" class="val" text-anchor="end">Computer Engineer</text></g>
