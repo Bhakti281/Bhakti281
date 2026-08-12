@@ -13,7 +13,7 @@
 .val{fill:#c9d1d9;font-size:13px}
 .sec{fill:#f0883e;font-size:13px;font-weight:700}
 .name{fill:#58a6ff;font-size:18px;font-weight:700}
-.art{fill:#f0b429;font-size:11px;letter-spacing:0px}
+.art{fill:#79c0ff;font-size:11px;letter-spacing:0px}
 .row{opacity:0;animation:in .5s ease-out forwards}
 @keyframes in{from{opacity:0;transform:translateX(-10px)}to{opacity:1;transform:translateX(0)}}
 @keyframes blink{50%{opacity:0}}
@@ -29,25 +29,25 @@
 <text x="110" y="35" class="val" opacity=".55">Bhakti281 — README.md</text>
 <line x1="20" y1="52" x2="960" y2="52" stroke="#30363d"/>
 <g class="portrait" filter="url(#glow)">
-<text x="70" y="106" class="art" xml:space="preserve" opacity="0">.:-=+=-:. :--==++=-:.             <animate attributeName="opacity" from="0" to="1" begin="0.0s" dur=".4s" fill="freeze"/></text>
-<text x="70" y="123" class="art" xml:space="preserve" opacity="0">-==++=++--*%#**#@@%#+:::..::..    <animate attributeName="opacity" from="0" to="1" begin="0.06s" dur=".4s" fill="freeze"/></text>
-<text x="70" y="140" class="art" xml:space="preserve" opacity="0">=++++*#*+#@#=+*#%@@%%%*==-===-:  .<animate attributeName="opacity" from="0" to="1" begin="0.12s" dur=".4s" fill="freeze"/></text>
-<text x="70" y="157" class="art" xml:space="preserve" opacity="0">*+++#%%#**+:.:=**#@@@@@#+=++++=-::<animate attributeName="opacity" from="0" to="1" begin="0.18s" dur=".4s" fill="freeze"/></text>
-<text x="70" y="174" class="art" xml:space="preserve" opacity="0">#**%@@@*:.  .:-=*#%@@@@@#*+++=++++<animate attributeName="opacity" from="0" to="1" begin="0.24s" dur=".4s" fill="freeze"/></text>
-<text x="70" y="191" class="art" xml:space="preserve" opacity="0">##%@@@*:....:-==+*@@@@@@@%********<animate attributeName="opacity" from="0" to="1" begin="0.3s" dur=".4s" fill="freeze"/></text>
-<text x="70" y="208" class="art" xml:space="preserve" opacity="0">#%%@@@-+*#*-=#*****#@@@@@@@%##****<animate attributeName="opacity" from="0" to="1" begin="0.36s" dur=".4s" fill="freeze"/></text>
-<text x="70" y="225" class="art" xml:space="preserve" opacity="0">#%%@@%...:.  -:.  :=%@%@@@@@%##*##<animate attributeName="opacity" from="0" to="1" begin="0.42s" dur=".4s" fill="freeze"/></text>
-<text x="70" y="242" class="art" xml:space="preserve" opacity="0">%%*=*#: .=:.-++*+=+#%@@@@@@@@@%#*#<animate attributeName="opacity" from="0" to="1" begin="0.48s" dur=".4s" fill="freeze"/></text>
-<text x="70" y="259" class="art" xml:space="preserve" opacity="0">+= =***==*=::-+*#**#%@@@%@@%@@%#++<animate attributeName="opacity" from="0" to="1" begin="0.54s" dur=".4s" fill="freeze"/></text>
-<text x="70" y="276" class="art" xml:space="preserve" opacity="0">. .%@%%%*+.  .:-+##@@@@@@%%#%@@%**<animate attributeName="opacity" from="0" to="1" begin="0.6s" dur=".4s" fill="freeze"/></text>
-<text x="70" y="293" class="art" xml:space="preserve" opacity="0">  -%@@%@@@#=::-*%@@@@@@@@@@@%#%%##<animate attributeName="opacity" from="0" to="1" begin="0.66s" dur=".4s" fill="freeze"/></text>
-<text x="70" y="310" class="art" xml:space="preserve" opacity="0">  .:=%%%@@@@@@%%%@%%%@@@@%*=:-+**#<animate attributeName="opacity" from="0" to="1" begin="0.72s" dur=".4s" fill="freeze"/></text>
-<text x="70" y="327" class="art" xml:space="preserve" opacity="0"> .-=*@@%@@@@@@*#@%%@@@@%=.     .::<animate attributeName="opacity" from="0" to="1" begin="0.78s" dur=".4s" fill="freeze"/></text>
-<text x="70" y="344" class="art" xml:space="preserve" opacity="0">:=***@@@@@@@@@##@@@@@%+.    ..:--:<animate attributeName="opacity" from="0" to="1" begin="0.84s" dur=".4s" fill="freeze"/></text>
-<text x="70" y="361" class="art" xml:space="preserve" opacity="0">+##+%@@@@@@@###%@@@*-:   ..:-: :--<animate attributeName="opacity" from="0" to="1" begin="0.9s" dur=".4s" fill="freeze"/></text>
-<text x="70" y="378" class="art" xml:space="preserve" opacity="0">#%+#@@@@@@%#=+++#-  ..    .:   :-:<animate attributeName="opacity" from="0" to="1" begin="0.96s" dur=".4s" fill="freeze"/></text>
-<text x="70" y="395" class="art" xml:space="preserve" opacity="0">#%%@@@##+=----.    ..::.     ..:::<animate attributeName="opacity" from="0" to="1" begin="1.02s" dur=".4s" fill="freeze"/></text>
-<text x="70" y="412" class="art" xml:space="preserve" opacity="0">#**#*. .:::...      :=::    ...:::<animate attributeName="opacity" from="0" to="1" begin="1.08s" dur=".4s" fill="freeze"/></text>
+<text x="70" y="106" class="art" xml:space="preserve" opacity="0">             #+***#%##            <animate attributeName="opacity" from="0" to="1" begin="0.0s" dur=".4s" fill="freeze"/></text>
+<text x="70" y="123" class="art" xml:space="preserve" opacity="0">           %%#*+=+*%%%%           <animate attributeName="opacity" from="0" to="1" begin="0.06s" dur=".4s" fill="freeze"/></text>
+<text x="70" y="140" class="art" xml:space="preserve" opacity="0">           @%+=--++#%@@%%         <animate attributeName="opacity" from="0" to="1" begin="0.12s" dur=".4s" fill="freeze"/></text>
+<text x="70" y="157" class="art" xml:space="preserve" opacity="0">           %*====+++*%@@@%%       <animate attributeName="opacity" from="0" to="1" begin="0.18s" dur=".4s" fill="freeze"/></text>
+<text x="70" y="174" class="art" xml:space="preserve" opacity="0">          =**++=-++**%@@@@%#      <animate attributeName="opacity" from="0" to="1" begin="0.24s" dur=".4s" fill="freeze"/></text>
+<text x="70" y="191" class="art" xml:space="preserve" opacity="0">         :=#%%#*==*%%@@@@%#*      <animate attributeName="opacity" from="0" to="1" begin="0.3s" dur=".4s" fill="freeze"/></text>
+<text x="70" y="208" class="art" xml:space="preserve" opacity="0">        -:=*%@@@@##@@@@%*+=-=     <animate attributeName="opacity" from="0" to="1" begin="0.36s" dur=".4s" fill="freeze"/></text>
+<text x="70" y="225" class="art" xml:space="preserve" opacity="0">       =-+*#@@@@@%%%%#+-:---==+   <animate attributeName="opacity" from="0" to="1" begin="0.42s" dur=".4s" fill="freeze"/></text>
+<text x="70" y="242" class="art" xml:space="preserve" opacity="0">      =-+##%%%#*+++=---:::--==++  <animate attributeName="opacity" from="0" to="1" begin="0.48s" dur=".4s" fill="freeze"/></text>
+<text x="70" y="259" class="art" xml:space="preserve" opacity="0">    ===+**+==----::::==-::--==+++ <animate attributeName="opacity" from="0" to="1" begin="0.54s" dur=".4s" fill="freeze"/></text>
+<text x="70" y="276" class="art" xml:space="preserve" opacity="0">  =+==+*=-::::::.:::=+-::-=--==++*<animate attributeName="opacity" from="0" to="1" begin="0.6s" dur=".4s" fill="freeze"/></text>
+<text x="70" y="293" class="art" xml:space="preserve" opacity="0"> ==+++++=-----:::::-==---=-:-===+*<animate attributeName="opacity" from="0" to="1" begin="0.66s" dur=".4s" fill="freeze"/></text>
+<text x="70" y="310" class="art" xml:space="preserve" opacity="0">  =+++++=-----::-======---:-====+ <animate attributeName="opacity" from="0" to="1" begin="0.72s" dur=".4s" fill="freeze"/></text>
+<text x="70" y="327" class="art" xml:space="preserve" opacity="0">   *===---------==+==++-::-=++++  <animate attributeName="opacity" from="0" to="1" begin="0.78s" dur=".4s" fill="freeze"/></text>
+<text x="70" y="344" class="art" xml:space="preserve" opacity="0">#*+++==++=====--=------::-==++++  <animate attributeName="opacity" from="0" to="1" begin="0.84s" dur=".4s" fill="freeze"/></text>
+<text x="70" y="361" class="art" xml:space="preserve" opacity="0">#######%###***+++=:::----==+++    <animate attributeName="opacity" from="0" to="1" begin="0.9s" dur=".4s" fill="freeze"/></text>
+<text x="70" y="378" class="art" xml:space="preserve" opacity="0">%%%%%%%%%%%%%%%%%#*==+*+=+***     <animate attributeName="opacity" from="0" to="1" begin="0.96s" dur=".4s" fill="freeze"/></text>
+<text x="70" y="395" class="art" xml:space="preserve" opacity="0">%%%%%%%%%%%%%%@@@@@%%@@%%%@@@     <animate attributeName="opacity" from="0" to="1" begin="1.02s" dur=".4s" fill="freeze"/></text>
+<text x="70" y="412" class="art" xml:space="preserve" opacity="0">%%%%%%%%%%%@@@@@@@@@@@@@@@@@@     <animate attributeName="opacity" from="0" to="1" begin="1.08s" dur=".4s" fill="freeze"/></text>
 </g>
 <text x="330" y="80" class="name">bhakti@github<tspan class="cursor" fill="#f0b429"> ▌</tspan></text>
 <g class="row" style="animation-delay:0.4s"><text x="330" y="106" class="lbl" xml:space="preserve">OS:</text><text x="940" y="106" class="val" text-anchor="end">Windows</text></g>
