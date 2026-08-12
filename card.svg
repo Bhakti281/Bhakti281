@@ -1,3 +1,9 @@
+<!--
+  Bhakti Gharat - Terminal Profile Card
+  Copyright (c) 2026 Bhakti Gharat. All Rights Reserved.
+  Unauthorized copying, reuse, modification or redistribution of this
+  artwork or code, in whole or in part, is prohibited. See LICENSE.
+-->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="980" height="548" viewBox="0 0 980 548" font-family="JetBrains Mono, DejaVu Sans Mono, monospace">
 <defs>
 <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
@@ -73,4 +79,5 @@
 <rect x="440" y="512" width="20" height="12" fill="#bc8cff" stroke="#30363d"><animate attributeName="height" values="12;18;12" dur="2s" begin="0.75s" repeatCount="indefinite"/></rect>
 <rect x="462" y="512" width="20" height="12" fill="#39c5cf" stroke="#30363d"><animate attributeName="height" values="12;18;12" dur="2s" begin="0.9s" repeatCount="indefinite"/></rect>
 <rect x="484" y="512" width="20" height="12" fill="#c9d1d9" stroke="#30363d"><animate attributeName="height" values="12;18;12" dur="2s" begin="1.05s" repeatCount="indefinite"/></rect>
+<text x="940" y="522" text-anchor="end" font-size="10" fill="#6e7681">© 2026 Bhakti Gharat — All Rights Reserved</text>
 </svg>
